@@ -1,0 +1,28 @@
+{
+  "name": "webtrends-bower",
+  "version": "0.1.0",
+  "authors": [
+    "Steve Layton <shindakun@users.noreply.github.com>"
+  ],
+  "description": "Webtrends v10 plugin as a bower package.",
+  "keywords": [
+    "Webtrends",
+    "analytics",
+    "tracking"
+  ],
+  "homepage": "https://tagbuilder.webtrends.com/v10",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shindakun/webtrends-bower.git"
+  },
+ "main": [
+    "webtrends.html"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
